@@ -26,3 +26,5 @@ Toiminta:
 - Sain suunnilleen suoritettua Intro to version control videolla esitetyt toiminnot. Git commit käskyä en saanut aina toimimaan, kun ohjelma herjasi jotain VSC lataamisesta, vaikka se oli jo ladattuna.
 - Introduction and base html- moduulin sain seurattua ja suoritettua läpi. Joitain kohtia jouduin katsomaan moneen kertaan, jotta sain tehtyä samalla tavalla.
 - Oppimispäiväkirjan sain tallennettua kun kysyin apua ChatGPT:ltä.
+
+Yleisfiilis on vielä se, etten oikein ymmärrä mitä missäkin tehdään, kun pompitaan monen sovelluksen välillä.
