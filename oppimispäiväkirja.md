@@ -30,5 +30,5 @@ Toiminta:
 Yleisfiilis on vielä se, etten oikein ymmärrä mitä missäkin tehdään, kun pompitaan monen sovelluksen välillä.
 
 Päivämäärä: 27.5.2025
-Toiminta: Moduulin 2 aloitus (Links and Core CSS, 19:20-37:00), videon katsominen ja tehtävien suorittaminen samalla.
+Toiminta: Moduulin 2 katsominen ja Moduulin 3 aloitus (Links and Core CSS ja Buttons & Utility Classes, 19:20-37:00), videon katsominen ja tehtävien suorittaminen samalla.
 Oppimistulos: Tässä kohdassa muokattiin yläpalkkia. Pienillä muutoksilla saa paljon aikaan ja jokainen mitättömältäkin tuntuva asia täytyy koodata erikseen (esim. pienet erot palkin tekstien välityksissä). Pienilläkin muutoksilla on paljon vaikutusta sivun ilmeeseen ja toiminnallisuuteen (esim. hiiren leijuminen painikkeen päällä, muuttaa sen väriä, jolloin heti syntyy mielikuva, että tätä painamalla tapahtuu jotain.) Näitä oli kivaa tehdä.
