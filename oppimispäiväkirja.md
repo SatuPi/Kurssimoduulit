@@ -20,7 +20,7 @@ Päivämäärä: 26.5.2025
 Toiminta:
 
 - Intro to version control- videon katsominen uudelleen ja samojen toimintojen tekeminen perässä.
-- Introduction and Base HTML- moduulin katsominen ja moduulin tehtävien suorittaminen samalla.
+- Moduulin 1 (Introduction and Base HTML, 00:00-19:19) videon katsominen ja moduulin tehtävien suorittaminen samalla.
 - Oppimispäiväkirjan tallentaminen VSC kautta.
   Oppimistulos:
 - Sain suunnilleen suoritettua Intro to version control videolla esitetyt toiminnot. Git commit käskyä en saanut aina toimimaan, kun ohjelma herjasi jotain VSC lataamisesta, vaikka se oli jo ladattuna.
@@ -28,3 +28,7 @@ Toiminta:
 - Oppimispäiväkirjan sain tallennettua kun kysyin apua ChatGPT:ltä.
 
 Yleisfiilis on vielä se, etten oikein ymmärrä mitä missäkin tehdään, kun pompitaan monen sovelluksen välillä.
+
+Päivämäärä: 27.5.2025
+Toiminta: Moduulin 2 aloitus (Links and Core CSS, 19:20-37:00), videon katsominen ja tehtävien suorittaminen samalla.
+Oppimistulos: Tässä kohdassa muokattiin yläpalkkia. Pienillä muutoksilla saa paljon aikaan ja jokainen mitättömältäkin tuntuva asia täytyy koodata erikseen (esim. pienet erot palkin tekstien välityksissä). Pienilläkin muutoksilla on paljon vaikutusta sivun ilmeeseen ja toiminnallisuuteen (esim. hiiren leijuminen painikkeen päällä, muuttaa sen väriä, jolloin heti syntyy mielikuva, että tätä painamalla tapahtuu jotain.) Näitä oli kivaa tehdä.
