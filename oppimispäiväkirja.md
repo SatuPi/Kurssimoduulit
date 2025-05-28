@@ -36,3 +36,6 @@ Oppimistulos: Tässä kohdassa muokattiin yläpalkkia. Pienillä muutoksilla saa
 Päivämäärä: 28.5.2025
 Toiminta: Moduulivideon ja tehtävien jatkaminen (Buttons & Utility Classes ja CSS Grid & Cards, 46:00-1:12:20)
 Oppimistulos: Pitää selvittää onko jotain pikanäppäimiä tms, esimerkiksi kommenttimerkkien tekoon, jotta tekeminen olisi nopeampaa. Edelleen jatkettu pienillä muokkauksilla ja html ja css koodi tuntuu ymmärrettävältä. Mikähän se oma projekti voisi olla? Videon seuraamista haittaa melko paljon jatkuvasti tulevat mainokset.. Muuten sain kaiken tehtyä, mutta musta tausta jäi koko sivun levyiseksi, vaikka piti olla tasattu samalle leveydelle kuin yläpalkki?
+
+Toiminta: Moduulivideon ja tehtävien jatkaminen (FAQ elements, 1:37:57 saakka). Faq osion rakentamista. Javascript oli ihan uutta ja vaikuttaa vaikeammalta kuin html ja css, mistähän nuo kaikki komennot löytyisi ja tarvitseeko niitä opetella? Sivustoin toiminnassa ongelmia kun koodiin oli jäänyt yksittäinen ylimääräinen sulku, joka esti koodin toimimisen. 
+Oppimistulos: Ensikosketus JavaScript koodiin, ei ihan auennut vielä. Harjoitusverkkosivu alkaa jo rakentua hyvin ja html ja css rakennetta alkaa jonkin verran hahmottaa. 
