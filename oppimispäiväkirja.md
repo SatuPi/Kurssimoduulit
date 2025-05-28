@@ -34,5 +34,5 @@ Toiminta: Moduulin 2 katsominen ja Moduulin 3 aloitus (Links and Core CSS ja But
 Oppimistulos: Tässä kohdassa muokattiin yläpalkkia. Pienillä muutoksilla saa paljon aikaan ja jokainen mitättömältäkin tuntuva asia täytyy koodata erikseen (esim. pienet erot palkin tekstien välityksissä). Pienilläkin muutoksilla on paljon vaikutusta sivun ilmeeseen ja toiminnallisuuteen (esim. hiiren leijuminen painikkeen päällä, muuttaa sen väriä, jolloin heti syntyy mielikuva, että tätä painamalla tapahtuu jotain.) Näitä oli kivaa tehdä.
 
 Päivämäärä: 28.5.2025
-Toiminta: Moduulivideon ja tehtävien jatkaminen (Buttons & Utility Classes ja CSS Grid & Cards, 46:00-1:01:24)
-Oppimistulos: Pitää selvittää onko jotain pikanäppäimiä tms, esimerkiksi kommenttimerkkien tekoon, jotta tekeminen olisi nopeampaa. Edelleen jatkettu pienillä muokkauksilla ja html ja css koodi tuntuu ymmärrettävältä. Mikähän se oma projekti voisi olla? Videon seuraamista haittaa melko paljon jatkuvasti tulevat mainokset..
+Toiminta: Moduulivideon ja tehtävien jatkaminen (Buttons & Utility Classes ja CSS Grid & Cards, 46:00-1:12:20)
+Oppimistulos: Pitää selvittää onko jotain pikanäppäimiä tms, esimerkiksi kommenttimerkkien tekoon, jotta tekeminen olisi nopeampaa. Edelleen jatkettu pienillä muokkauksilla ja html ja css koodi tuntuu ymmärrettävältä. Mikähän se oma projekti voisi olla? Videon seuraamista haittaa melko paljon jatkuvasti tulevat mainokset.. Muuten sain kaiken tehtyä, mutta musta tausta jäi koko sivun levyiseksi, vaikka piti olla tasattu samalle leveydelle kuin yläpalkki?
