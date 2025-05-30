@@ -39,3 +39,8 @@ Oppimistulos: Pitää selvittää onko jotain pikanäppäimiä tms, esimerkiksi 
 
 Toiminta: Moduulivideon ja tehtävien jatkaminen (FAQ elements, 1:37:57 saakka). Faq osion rakentamista. Javascript oli ihan uutta ja vaikuttaa vaikeammalta kuin html ja css, mistähän nuo kaikki komennot löytyisi ja tarvitseeko niitä opetella? Sivustoin toiminnassa ongelmia kun koodiin oli jäänyt yksittäinen ylimääräinen sulku, joka esti koodin toimimisen. 
 Oppimistulos: Ensikosketus JavaScript koodiin, ei ihan auennut vielä. Harjoitusverkkosivu alkaa jo rakentua hyvin ja html ja css rakennetta alkaa jonkin verran hahmottaa. 
+
+
+Päivämäärä: 30.5.2025
+Toiminta: Moduulivideon jatkaminen (FAQ elements ja Footer, 1:47:00 saakka) ja tehtävien tekeminen. 
+Oppimistulos:Tuleepa helposti paljon pieniä kirjoitusvirheitä, joita on hankala löytää ja jotka estävät koodin toimimisen. Videota seuraamalla on suhteellisen helppoa rakentaa verkkosivua ja sen muotoilua, mutta ilman ohjetta en muistaisi kyllä mitään. Selkeästi tämä(kin) koodaaminen vaatii paljon toistoa ja rutiinin syntymistä, jotta joka kerran ei tunnu siltä kuin aloittaisi alusta. 
