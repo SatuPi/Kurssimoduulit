@@ -32,8 +32,8 @@ Kirjaudu -hover-popup, jossa kirjautumiskentät.
 
 Takaisin ylös -nappi, jossa käytetty käännettyä raketti-ikonia.
 
-Ulkoasuun on haettu yhtenäistä teemaa avaruudesta. Useissa otsikoissa käytetään avaruuskuvaa tekstin taustana (background-clip: text -tekniikka), 
-ja useat painikkeet, popup-ikkunat sekä footer-laatikot hyödyntävät avaruusaiheista taustakuvaa. 
+Ulkoasuun on haettu yhtenäistä teemaa avaruudesta. Useissa otsikoissa käytetään avaruuskuvaa tekstin taustana
+ja useat painikkeet, popup-ikkunat sekä footer-laatikot hyödyntävät avaruusaiheista taustakuvaa. Kirjaudu painikkeessa on astronatti-ikoni/emoji. 
 Ylös-napissa on käytetty rakettiaiheista ikonia, joka on suunnattu ylöspäin kallistamalla sitä 45 astetta vasemmalle.
 
 Kaikki osiot on suunniteltu skaalautumaan eri ruuduille käyttäen Flexboxia ja CSS Grid -tekniikoita. 
